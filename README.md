@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/Zwazel)  
+![Profile views](https://gpvc.arturio.dev/Zwazel)
 
 ![GitHub metrics](https://metrics.lecoq.io/Zwazel)
 
@@ -12,4 +12,4 @@
   <img alt="stats" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwazel&theme=dracula"/>
   </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zwazel&theme=dracula)    
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zwazel&theme=dracula)
