@@ -4,10 +4,12 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Zwazel)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwazel&show_icons=true&count_private=true)  
+ <br/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Zwazel&show_icons=true&theme=dracula&count_private=true"/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zwazel)  
+<p>
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zwazel&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwazel&theme=dracula"/>
+  </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zwazel)    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwazel)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zwazel&theme=dracula)    
