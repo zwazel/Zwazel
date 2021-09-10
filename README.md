@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- keeping my github streak alive :) -->
+
 ![Profile views](https://gpvc.arturio.dev/Zwazel)
 
 ![GitHub metrics](https://metrics.lecoq.io/Zwazel)
