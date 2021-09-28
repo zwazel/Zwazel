@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- keeping my github streak alive :) #7 -->
+<!-- keeping my github streak alive :) #8 -->
 
 ![Profile views](https://gpvc.arturio.dev/Zwazel)
 
