@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!-- keeping my github streak alive :) #8 -->
-
 ![Profile views](https://gpvc.arturio.dev/Zwazel)
+
+<!-- ![Profile views](https://gpvc.arturio.dev/Muetzilla)
+
+![GitHub metrics](https://metrics.lecoq.io/Muetzilla)-->
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Zwazel)
 
